@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>vCard</title>
+</head>
+<body>
+  <h1>Meu vCard</h1>
+  <p>
+    <strong>Nome:</strong> João da Silva
+    <br>
+    <strong>Sobrenome:</strong> Silva
+    <br>
+    <strong>Endereço:</strong> Rua das Flores, 123 - São Paulo, SP - 12345-6789
+    <br>
+    <strong>Telefone:</strong> (11) 9999-9999
+    <br>
+    <strong>E-mail:</strong> joao.silva@example.com
+    <br>
+    <strong>Site:</strong> https://example.com
+  </p>
+  <img src="https://example.com/image.jpg" alt="Foto de João da Silva">
+  <ul>
+    <li><a href="https://www.linkedin.com/in/joao-da-silva/"><strong>LinkedIn</strong></a></li>
+    <li><a href="https://twitter.com/joao_silva"><strong>Twitter</strong></a></li>
+    <li><a href="https://github.com/joaosilva"><strong>GitHub</strong></a></li>
+  </ul>
+</body>
+</html>
